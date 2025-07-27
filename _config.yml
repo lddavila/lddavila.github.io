@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Davila AI'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
