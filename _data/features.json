@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Free Tech Consultation",
+    "description": "New clients receive an obligation free consultation to discuss their business technology needs.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Talent with a proven track record. ",
+    "description": "I have been working on technology for the past 7 years and have even had my software featured in scientific publications.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Communicating in your language.",
+    "description": "We prioritize clear non-technical communication to empower your organization with technology.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
