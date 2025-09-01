@@ -4,10 +4,20 @@ bodyClass: "page-team"
 ---
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-  <div class="row justify-content-start">
+  <div class="row align-items-start">
+    {% if page.image %}
+    <div class="col-12 col-md-4">
+      <div class="team-image" style="max-width: 240px;">
+        <img class="img-fluid mb-2" alt="{{ page.title }}" src="{{ page.image | relative_url }}" />
+      </div>
+    </div>
+    {% endif %}
     <div class="col-12 col-md-8">
       <div class="team team-single">
         <h1 class="title">{{page.title}}</h1>
+        {% if page.jobtitle %}
+        <p class="team-description">{{ page.jobtitle }}</p>
+        {% endif %}
         <div class="content">{{content}}</div>
       </div>
     </div>
