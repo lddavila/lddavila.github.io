@@ -2,7 +2,7 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "About Us"
     url: "/team/"
     weight: 4
   - name: "Contact"
