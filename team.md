@@ -18,17 +18,17 @@ I’m completing an M.S. in Computational Science at UTEP (Aug 2025) and hold a 
 # Track Record
 My apps, machine learning projects, and pipelines have contributed to major publications in several scientific journals. 
 
-## Spike-Sorting with Dimension Selection based clustering 
-# (Physically First Author)
-# In Preparation Communications Biology-invited
+# Spike-Sorting with Dimension Selection based clustering 
+## (Physically First Author)
+## In Preparation Communications Biology-invited
 
-## RECORD, a high-throughput, customizable system that unveils behavioral strategies leveraged by rodents during foraging-like decision-making
-# (Co-First Author)
-# Published and featured by the National Science Foundation
+# RECORD, a high-throughput, customizable system that unveils behavioral strategies leveraged by rodents during foraging-like decision-making
+## (Co-First Author)
+## Published and featured by the National Science Foundation
 
-## A Decision-Space Model Explains Context-Specific Decision-Making
-# (Co-First Author)
-# Published
+# A Decision-Space Model Explains Context-Specific Decision-Making
+## (Co-First Author)
+## Published
 
 ##
 
