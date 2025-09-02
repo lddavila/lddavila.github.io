@@ -15,24 +15,28 @@ I’m Luis David Davila. I build AI, data, and automation solutions that turn co
 
 I’m completing an M.S. in Computational Science at UTEP (Aug 2025) and hold a B.S. in Computer Science with a concentration in Data Analytics (May 2023).
 
-## Selected Work
+# Track Record
+My apps, machine learning projects, and pipelines have contributed to major publications in several scientific journals. 
 
-- Spike sorting research: designed and evaluated deep learning models for neuron identification (70–92% accuracy), added parallel processing to speed up an existing algorithm by up to 3900%, and built a new approach that identified ~99% of neurons on simulated recordings.
-- Decision‑making models: trained a Wiener process model to simulate mouse decision‑making and created a method to quantify task difficulty, contributing to published results.
-- RECORD platform: built a custom desktop app to parse 200k+ experiment trials and a PostgreSQL database for 500+ GB of behavioral data.
-- Microsoft Research (intern): used scikit‑learn random forests to predict ALS disease progression from clinical data.
+## Spike-Sorting with Dimension Selection based clustering 
+# (Physically First Author)
+# In Preparation Communications Biology-invited
 
-## Publications
+## RECORD, a high-throughput, customizable system that unveils behavioral strategies leveraged by rodents during foraging-like decision-making
+# (Co-First Author)
+# Published and featured by the National Science Foundation
 
-- RECORD, a high‑throughput system for uncovering behavioral strategies (Communications Biology, 2024). Featured by NSF.
-- A Decision‑Space Model Explains Context‑Specific Decision‑Making (preprint, 2024).
-- Spike sorting with dimension‑selection‑based clustering (in preparation).
+## A Decision-Space Model Explains Context-Specific Decision-Making
+# (Co-First Author)
+# Published
 
-## Skills
+##
+
+# Skills
 
 Python, machine learning, data engineering, scientific computing, PostgreSQL, model evaluation, reproducible research, and building real‑world applications and dashboards. Comfortable across the stack from data to deployment.
 
-## Contact
+# Contact
 
 - Email: LuisDavidDavila@DavilaAI.com
 - GitHub: https://github.com/lddavila
