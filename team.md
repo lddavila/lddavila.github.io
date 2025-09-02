@@ -21,16 +21,19 @@ My apps, machine learning projects, and pipelines have contributed to major publ
 ## Spike-Sorting with Dimension Selection based clustering 
 - (Physically First Author)
 - In Preparation Communications Biology-invited
+-[See the code](https://github.com/lddavila/clustering_neuron_spikes_with_deep_learning)
 
 ## RECORD, a high-throughput, customizable system that unveils behavioral strategies leveraged by rodents during foraging-like decision-making
 - (Co-First Author)
 - Published and featured by the National Science Foundation
-[Read The Paper](https://www.nature.com/articles/s42003-024-06489-8) <br>
-[Read The Feature](https://new.nsf.gov/news/making-strides-understanding-decision-making)
+-[Read The Paper](https://www.nature.com/articles/s42003-024-06489-8) 
+-[Read The Feature](https://new.nsf.gov/news/making-strides-understanding-decision-making)
+-[See The Code](https://github.com/lddavila/UTEP-Brain-Computation-Lab-Remote-Databases-and-Serendipity-App)
 
 ## A Decision-Space Model Explains Context-Specific Decision-Making
 - (Co-First Author)
 - Published
+
 
 
 
