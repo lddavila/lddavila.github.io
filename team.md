@@ -25,6 +25,8 @@ My apps, machine learning projects, and pipelines have contributed to major publ
 ## RECORD, a high-throughput, customizable system that unveils behavioral strategies leveraged by rodents during foraging-like decision-making
 ### (Co-First Author)
 ### Published and featured by the National Science Foundation
+[Read The Paper](https://www.nature.com/articles/s42003-024-06489-8)
+[Read The Feature](https://new.nsf.gov/news/making-strides-understanding-decision-making)
 
 ## A Decision-Space Model Explains Context-Specific Decision-Making
 ### (Co-First Author)
