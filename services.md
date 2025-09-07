@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+From AI-powered automation and data platforms to custom software and cloud, we design and ship reliable systems that reduce manual work and drive measurable outcomes. Explore the services below to see how we can help with workflow automation, analytics, apps, and IT modernization—all with clear communication and a practical, ROI-focused approach. New clients receive a free consultation to scope needs and next steps.
